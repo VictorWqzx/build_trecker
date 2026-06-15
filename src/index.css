@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@media print {
+  nav, button, header {
+    display: none !important;
+  }
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .print-header {
+    display: block !important;
+  }
+}
+

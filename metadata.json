@@ -1,0 +1,6 @@
+{
+  "name": "Зарплатный трекер (BuildTracker)",
+  "description": "Приложение для учета работников, расчета заработной платы по квадратным метрам и контроля строительных финансов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
